@@ -32,3 +32,5 @@ Veja [`RUBRICA.md`](RUBRICA.md).
 ## Materiais da aula
 
 Na pasta [`materiais`](materiais) estão os documentos fictícios usados na demonstração (nota fiscal, pedido de compra e contagem do recebimento) e o prompt.
+
+A planilha [`materiais/perdas_por_nota.xlsx`](materiais/perdas_por_nota.xlsx) traz 12 meses de dados ilustrativos do caso de pagamento a fornecedores. Use-a para analisar onde está a perda antes de decidir o que automatizar.
